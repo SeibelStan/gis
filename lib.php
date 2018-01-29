@@ -28,7 +28,7 @@ function arrayMultiSort($array, $args = []) {
 }
 
 function checkKey($userKey) {
-    $keys = explode("\n", trim(file_get_contents('keys.txt')));
+    $keys = explode("\n", trim(file_get_contents('14f802e1fba977727845e8872c1743a7')));
     $allow = false;
     foreach($keys as $key) {
         if($key == $userKey) {
