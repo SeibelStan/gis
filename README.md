@@ -1,4 +1,4 @@
-# 2Gis Parser
+# 2gis Parser
 
 ## Инструкция
 * Выполнить поиск по 2ГИС, на пример [/spb/search/Суши-бары...](https://2gis.ru/spb/search/Суши-бары%2Fрестораны/rubricId/15791/tab/firms?queryState=center%2F30.272554%2C59.970897%2Fzoom%2F18)
